@@ -8,6 +8,8 @@ Calculates the mean and median of the pages of the books you read in a particula
 
 ### Requirements
 
+* The script have be called with the `year` as command line argument
+* * Example: python bookpages.py 2023
 * The books are itemised in files on a per year base
 * In the files there is one file per line
 * The line format is name (`pages`) where `pages` are expressed by digits
