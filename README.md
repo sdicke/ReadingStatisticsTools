@@ -6,7 +6,7 @@ Tools to summarise your reading progress
 
 Calculates the mean and median of the pages of the books you read in a particular year.
 
-## Requirements
+### Requirements
 
 * The books are itemised in files on a per year base
 * In the files there is one file per line
