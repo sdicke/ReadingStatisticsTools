@@ -8,7 +8,7 @@ year = sys.argv[1]
 
 numbers = []
 prefix = "";
-input = open(" " + prefix + ".md")
+input = open(prefix + year + ".md")
 for line in input:
 	length = re.findall(pattern, line)[0][1:-1]
 	length = int(length)
