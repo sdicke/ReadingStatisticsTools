@@ -16,4 +16,4 @@ Calculates the mean and median of the pages of the books you read in a particula
 * * Example: Buddenbrooks (904)
 * The file names have to match the format `prefix` ++ `year` ++ `.md` where ++ is the concatenation operator
 * * Example: /home/user/Documents/books_2023.md
-* The prefix has to be specified in the script in the variable prefix in line 10
+* The prefix has to be specified in the script in the variable prefix in line 10. Please note that ~ will not replaced with your home directory path.
